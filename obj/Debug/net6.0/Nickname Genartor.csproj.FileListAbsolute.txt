@@ -1,0 +1,15 @@
+F:\c#\Nickname Genartor\bin\Debug\net6.0\Nickname Genartor.exe
+F:\c#\Nickname Genartor\bin\Debug\net6.0\Nickname Genartor.deps.json
+F:\c#\Nickname Genartor\bin\Debug\net6.0\Nickname Genartor.runtimeconfig.json
+F:\c#\Nickname Genartor\bin\Debug\net6.0\Nickname Genartor.dll
+F:\c#\Nickname Genartor\bin\Debug\net6.0\Nickname Genartor.pdb
+F:\c#\Nickname Genartor\obj\Debug\net6.0\Nickname Genartor.csproj.AssemblyReference.cache
+F:\c#\Nickname Genartor\obj\Debug\net6.0\Nickname Genartor.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Nickname Genartor\obj\Debug\net6.0\Nickname Genartor.AssemblyInfoInputs.cache
+F:\c#\Nickname Genartor\obj\Debug\net6.0\Nickname Genartor.AssemblyInfo.cs
+F:\c#\Nickname Genartor\obj\Debug\net6.0\Nickname Genartor.csproj.CoreCompileInputs.cache
+F:\c#\Nickname Genartor\obj\Debug\net6.0\Nickname Genartor.dll
+F:\c#\Nickname Genartor\obj\Debug\net6.0\refint\Nickname Genartor.dll
+F:\c#\Nickname Genartor\obj\Debug\net6.0\Nickname Genartor.pdb
+F:\c#\Nickname Genartor\obj\Debug\net6.0\Nickname Genartor.genruntimeconfig.cache
+F:\c#\Nickname Genartor\obj\Debug\net6.0\ref\Nickname Genartor.dll
